@@ -1,5 +1,5 @@
 Running Instructions:  
-1-Please download the dataset from DOT's website https://www.transtats.bts.gov/tables.asp?QO_VQ=EFD&QO_anzr=Nv4yv0r
+1-Please download the dataset from DOT's website https://www.transtats.bts.gov/tables.asp?QO_VQ=EFD&QO_anzr=Nv4yv0r  
 2- In helperScript.py script, please put the path of airline.csv, and SupplementaryCSVs as a comma seperated value into source_dirs instead of the paths currently present  
 3-Please create a folder named Parquet  
 4-Please input the Parquet file’s path into target_dir instead of the path currently present within “”  
